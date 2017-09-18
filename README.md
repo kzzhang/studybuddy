@@ -1,2 +1,2 @@
 # studybuddy
-Alexa study buddy
+Alexa study buddy - Winner of Hack the North 2017
